@@ -1,0 +1,3 @@
+001-0784b18	TKD 30-0673b	buddhist/K-koreana/30-tif/0600-0699/30_0673_B.TIF
+001-0784b38	TKD 30-0673c	buddhist/K-koreana/30-tif/0600-0699/30_0673_C.TIF
+001-0784c00	T 001-0784c	buddhist/T-taisho/T32/07/T32-0784.png

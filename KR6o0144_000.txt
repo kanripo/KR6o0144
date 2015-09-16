@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 請賓頭盧法
+#+DATE: 2015-08-30 21:01:41.222616
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6o0144
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+畫

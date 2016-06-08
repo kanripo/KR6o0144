@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:42.206243
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:01
 #+TITLE: 請賓頭盧法
 #+PROPERTY: CBETA_ID T32n1689
 #+PROPERTY: ID KR6o0144
